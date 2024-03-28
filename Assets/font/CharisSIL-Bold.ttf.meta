@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1d02c930825464e47af970204ae5daa4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Charis SIL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d37ac357df72abf44b02f6e42fea5880, type: 3}
+  - {fileID: 12800000, guid: 914921aa80821f642ab3bf735aa26eac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
