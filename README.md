@@ -8,6 +8,9 @@ updated description panel.
 https://drive.google.com/file/d/1pRLN6JnPXfRf1jFBBmZ0NPYjFPTKhJH_/view?usp=sharing
 ### Google drive download 1.0.4 Unity file
 https://drive.google.com/file/d/1CrJBpUETG2nnEP3KZzVPamSCG0ay2vd9/view?usp=sharing
+### Unity version download
+https://unity.com/releases/editor/archive
+find 2020.3.24 do 64-bit
 
 ## (3/7/2024) Update Version 1.0.2
 ### IMPORTANT: Software
