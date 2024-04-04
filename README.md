@@ -1,6 +1,12 @@
 # CS370_ARMUSEUM
 # iOS AR demo 1.0
 
+## （4/3/2024） Update Version 1.0.5
+updates: corrected opening, added description toggle animation, corrected description toggle display logic, moved switch scene toggle to match the mockup, optimized switch model button display effect.
+Works needs being done...(priority high to low): Tutorial, Import at least one of the artist model(needs to be done before the presentation), Model idle animation, switch scene toggle rebuild & animation, Model entre animation, discuss about the Y direction rotation in display room
+### Google drive download 1.0.5 Unity file
+https://drive.google.com/file/d/1fUyhzcWXIdegDTq7d10gpY5PchpApC0f/view?usp=sharing
+
 ## (3/25/2024) Update Version 1.0.4
 updated display room that allows the player to rotate the model(rotate in X direction).
 updated description panel.
