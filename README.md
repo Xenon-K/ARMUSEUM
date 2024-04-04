@@ -4,9 +4,9 @@
 ## （4/4/2024） Update Version 1.0.7
 updates: optimized switch scene toggle display effect, added select previous model arrow, changed next model button to next model arrow, fixed sometimes the model switch disappear problem.
 Works needs being done...(priority high to low): 
-Must be done before Presentation II:
+### Must be done before Presentation II:
     Tutorial, Import at least one of the artist model(needs to be done before the presentation)
-Must be done before Final presentation:
+### Must be done before Final presentation:
     Model idle animation, Model entre animation, Model interact animation(for one), ARInteract, discuss about the Y direction rotation in display room
 ### Google drive download 1.0.7 Unity file
 https://drive.google.com/file/d/1W2e49M-GG9BRNHSzQPDDFW9dG-rYGVTh/view?usp=sharing
