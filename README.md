@@ -1,14 +1,27 @@
 # CS370_ARMUSEUM
+
+# iOS AR_MUSEUM 1.1
+## (4/16/2024) Update Version 1.1.0
+updates: Idle Animation for bird
+Known bug: under some angle, some other models might be shown
+
+Works needs being done...(priority high to low): 
+### Must be done before Final presentation:
+    Tutorial, Import artist models and patterns, Model idle animation, Model interact animation(for one), Model entre animation, discuss about the Y direction rotation in display room
+### Google drive download 1.1.0 Unity file
+https://drive.google.com/file/d/1CrJBpUETG2nnEP3KZzVPamSCG0ay2vd9/view?usp=sharing
+### Google drive download 1.1.0 build file
+https://drive.google.com/file/d/1TzpoGUMlFw4AO2LuCAhTHfV88EVg236M/view?usp=sharing
+
+
+
 # iOS AR demo 1.0
 
 ## （4/5/2024） Update Version 1.0.9
 updates: It was windy that day, so I dragged a plastic chair on my balcony, putted my sun glasses on, and sat on that plastic chair. The wind is like a messenger, they told me "I AM THE STORM THAT IS APPROACHING, PROVOKING, BLACK CLOUDS IN ISOLATION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 and ARinteract is now available(also lower the volume while using the app)
 Works needs being done...(priority high to low): 
-### Must be done before Presentation II:
-    Tutorial, Import at least one of the artist model，one idle animation
-### Must be done before Final presentation:
-    Model idle animation, Model entre animation, Model interact animation(for one), discuss about the Y direction rotation in display room
+
 ### Google drive download 1.0.9 Unity file
 https://drive.google.com/file/d/1CrJBpUETG2nnEP3KZzVPamSCG0ay2vd9/view?usp=sharing
 ### Google drive download 1.0.9 build file
