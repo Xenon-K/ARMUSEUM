@@ -7,6 +7,9 @@ Works needs being done...(priority high to low):
 ### Must be done before Final presentation:
     Tutorial, Import artist models and patterns
     
+### Google drive download 1.1.1 Unity file
+https://drive.google.com/file/d/1CrJBpUETG2nnEP3KZzVPamSCG0ay2vd9/view?usp=sharing
+
 ## (4/16/2024) Update Version 1.1.0
 updates: Idle Animation for bird
 Known bug: under some angle, some other models might be shown
