@@ -1,13 +1,16 @@
 # CS370_ARMUSEUM
 
 # iOS AR_MUSEUM 1.1
+## (4/20/2024) Update Version 1.1.1
+updates: ARInteraction is done, fixed Sam animation violating rotation problem.
+Works needs being done...(priority high to low): 
+### Must be done before Final presentation:
+    Tutorial, Import artist models and patterns
+    
 ## (4/16/2024) Update Version 1.1.0
 updates: Idle Animation for bird
 Known bug: under some angle, some other models might be shown
 
-Works needs being done...(priority high to low): 
-### Must be done before Final presentation:
-    Tutorial, Import artist models and patterns, Model idle animation, Model interact animation(for one), Model entre animation, discuss about the Y direction rotation in display room
 ### Google drive download 1.1.0 Unity file
 https://drive.google.com/file/d/1CrJBpUETG2nnEP3KZzVPamSCG0ay2vd9/view?usp=sharing
 ### Google drive download 1.1.0 build file
