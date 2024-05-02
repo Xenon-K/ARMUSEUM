@@ -1,5 +1,13 @@
 # CS370_ARMUSEUM
 
+# iOS AR_Museum 1.2
+## (5/1/2024) Update Version 1.2
+updates: The tutorial is complete and a clearer naming convention has been implemented.
+Works needed to be done: Original Models and Upload Pattern
+
+### Google Drive download 1.2 Unity .zip file
+https://drive.google.com/file/d/11P_mT2KYsmiKXplocyjAHNJO7swB3bt4/view?usp=drive_link
+
 # iOS AR_MUSEUM 1.1
 ## (4/20/2024) Update Version 1.1.1
 updates: ARInteraction is done, fixed Sam animation violating rotation problem.
