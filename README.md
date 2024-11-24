@@ -1,5 +1,8 @@
 # CS370_ARMUSEUM
 
+# Demonstration video
+https://drive.google.com/file/d/18sn60oe99c7ny3Q1K7v66AWwyj7l0LzR/view?usp=sharing
+
 # iOS AR_Museum 1.2
 ## (5/1/2024) Update Version 1.2
 updates: The tutorial is complete and a clearer naming convention has been implemented.
