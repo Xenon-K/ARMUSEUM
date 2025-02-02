@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using static System.Net.Mime.MediaTypeNames;
 //using static System.Net.Mime.MediaTypeNames;
 
 public class buttonText : MonoBehaviour
@@ -22,6 +23,11 @@ public class buttonText : MonoBehaviour
     {
         text = "\n" + text;
         Textfield.text += text; }
+
+    public void AppendTextByLetter(char letter)
+    {
+        Textfield.text += letter;
+    }
 
     public void ToggleText()
     {

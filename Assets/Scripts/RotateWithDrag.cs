@@ -21,6 +21,19 @@ namespace RakibUtils
             m_camera = Camera.main;
         }
 
+        public void notouch()
+        {
+            touchAnywhere = false;
+        }
+
+        public void touch()
+        { touchAnywhere = true; }
+
+        public void switchtouch()
+        {
+            touchAnywhere = !touchAnywhere;
+        }
+
         private void Update ()
         {
             if (!touchAnywhere)
