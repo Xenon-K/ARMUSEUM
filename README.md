@@ -1,6 +1,12 @@
 # CS370_ARMUSEUM
+# All Platform AR_Museum 1.3
+## (2/1/2025) Update Version 1.3
+updates: Developed an AI-powered system using an API to enable students to ask questions about the museum collection and receive interactive, accurate responses.
 
-# Demonstration video
+# Demonstration video for 1.3
+update later
+
+# Demonstration video for 1.2
 https://drive.google.com/file/d/18sn60oe99c7ny3Q1K7v66AWwyj7l0LzR/view?usp=sharing
 
 # iOS AR_Museum 1.2
