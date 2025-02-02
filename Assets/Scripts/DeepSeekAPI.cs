@@ -7,7 +7,7 @@ using UnityEngine.Events;
 
 public class DeepSeekAPI : MonoBehaviour
 {
-    private string apiKey = "sk-149b5103c4604ee7bc39cf7c620ba00c";//replace api
+    private string apiKey = "";//replace api
     private string apiUrl = "https://api.deepseek.com/v1/chat/completions";
     private Coroutine currentRequestCoroutine;
     private UnityWebRequest currentRequest;
